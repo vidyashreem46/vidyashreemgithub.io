@@ -6,5 +6,5 @@ It showcases my **education, skills, certifications, and contact info**.
 
 ## 🌐 Live Website
 
-Check it out here: [https://vidyashreem46.github.io](https://vidyashreem46.github.io)
+Check it out here: https://vidyashreem46.github.io/vgithub.io/
 
